@@ -9,7 +9,7 @@ A Simple,Simple,Yahoo Weather Api.
   classs.   
 ####1.the Aim of this library is to simply the programming for getting weather information.   
 ####2.the another of this library is to get more weather information.   
-  so,if you ant to get much weather information and just want to use a interface to get the whole     
+  so,if you want to get much weather information and just want to use a interface to get the whole     
   what you want.you can clone it,and use it.    
 #how to use it?   
   this is the key question i am care about.simple,just simple,there are 2 ways to set up your app   

@@ -16,6 +16,7 @@ A Simple,Simple,Yahoo Weather Api.
   with this library:  
 ##one way is just like this 
 ```
+//YahooWeather yh=new YahooWeather("chian","yunnan","kunming");
  YahooWeather yh=new YahooWeather("40","90");
         YahooWeatherListener ls=new YahooWeatherListener() {
             @Override
@@ -43,6 +44,7 @@ A Simple,Simple,Yahoo Weather Api.
 ```
 ##another way to set up :
 ```
+//YahooWeather yh=new YahooWeather("chian","yunnan","kunming");
  YahooWeather yhh=new YahooWeather("40","70");
         try {
             yhh.setListenerOnYahooWeather(new YahooWeatherListener() {

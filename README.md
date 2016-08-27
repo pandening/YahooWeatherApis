@@ -78,7 +78,7 @@ HuJian(nankai university,computer science) E-mail:<1425124481@qq.com>
 License
 ==================
 ```
-Copyright 2016 Zhenghong Wang
+Copyright 2016 HuJian
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

@@ -74,7 +74,7 @@ A Simple,Simple,Yahoo Weather Api.
 so,war you ready to use this little ,simple 'library' in your project?
 Developer
 ======================
-HuJian(nankai university,computer scoence) E-mail:<1425124481@qq.com>
+HuJian(nankai university,computer science) E-mail:<1425124481@qq.com>
 License
 ==================
 ```

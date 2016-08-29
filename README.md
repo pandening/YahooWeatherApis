@@ -82,7 +82,7 @@ update information
   update the library,add a another library with a simple Cache.so,if you need the cache for your    
   app,just use the new version lib.or,just choose the old version(stable).
 ###how to set up my app with the new library?
-  there is a another demo for this lib for you to learn,it's easy to use ,too.    
+  there is a another demo for this lib for you to learn<https://github.com/pandening/YahooWeatherApis/blob/master/YahooWeatherApi-withCache/src/net/hujian/yahoo/weather/api/example/ExampleForThisYahooApi.java>,it's easy to use ,too.    
   or,you can just see below codes to work your demo out.
 ```
  YahooWeatherCacheHandler cache=new YahooWeatherCacheHandler(true,1000,1000);
